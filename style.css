@@ -1,0 +1,23 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  background-color: #ECECEA;
+  color: #74AFAD;
+  font-size: 24px;
+  text-shadow: 2px 2px 2px #558C89;
+}
+
+#game-board {
+  background-color: #ecb282;
+  position: absolute;
+  top: 100px;
+  left: 360px;
+  bottom: -10px;
+}
